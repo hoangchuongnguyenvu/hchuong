@@ -17,7 +17,7 @@ pandas
 tqdm
 requests
 h5py
-streamlit-drawable-canvas=0.8.0
+streamlit-drawable-canvas
 requests
 uuid
 python-dotenv 
