@@ -17,6 +17,4 @@ pandas
 tqdm
 requests
 h5py
-base64
-io
 streamlit-drawable-canvas
