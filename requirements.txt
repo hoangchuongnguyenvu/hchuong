@@ -17,4 +17,4 @@ pandas
 tqdm
 requests
 h5py
-streamlit-drawable-canvas
+streamlit-drawable-canvas=0.8.0
